@@ -2,7 +2,7 @@
 every game here asked a question first ✦
 -->
 <div align="center">
-  <img src="Banner.png" width="90%" />
+  <img src="../Banner.png" width="90%" />
 
   ## ✦ Devil Doll Entertainment
 
