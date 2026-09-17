@@ -3,7 +3,7 @@ every game here asked a question first ✦
 -->
 
 <div align="center">
-  <img src="../Banner.png" width="90%" alt="Devil Doll Entertainment" />
+  <img src="Banner.png" width="90%" alt="Devil Doll Entertainment" />
 
   <h2>✦ Devil Doll Entertainment</h2>
 
@@ -36,7 +36,7 @@ Some just want to see what happens when the rules change たぶん
 ## 🧠 The Stack ✦
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ruby,godot,lua,java&theme=dark" alt="Devil Doll Entertainment technology stack" />
+  <img src="https://skillicons.dev/icons?i=godot,ruby,js,cs,ts,java&theme=dark" alt="Devil Doll Entertainment technology stack" />
 </p>
 
 <details>
@@ -44,12 +44,14 @@ Some just want to see what happens when the rules change たぶん
 
 <br>
 
-| Technology           | Role                                                  |
-| -------------------- | ----------------------------------------------------- |
-| **Ruby**             | RPG Maker development and game scripting              |
-| **GDScript / Godot** | Original game development and interactive experiences |
-| **Lua**              | Game scripting and runtime extensions                 |
-| **Java**             | Minecraft mods and ecosystem extensions               |
+| Technology            | Role                                                     |
+| ---------------------- | --------------------------------------------------------- |
+| **GDScript / Godot**   | Original 2D games and interactive experiences             |
+| **Ruby**               | RPG Maker VX Ace scripting and battle systems              |
+| **JavaScript**         | RPG Maker MV plugins and save-data tooling                 |
+| **C#**                 | Standalone desktop games outside the RPG Maker ecosystem    |
+| **TypeScript**         | Web-based visual novels and narrative mini-games            |
+| **Java**               | Minecraft mods and ecosystem extensions                     |
 
 </details>
 
@@ -59,16 +61,21 @@ The engine adapts to the game.
 
 ## ◼ Projects ✦
 
-| Project                                                                                            | Description                                                                                                                                                |
-| -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Psycodead DEMO**                                                                                 | Boss fights with no narrative context — just the tension of figuring out what the game expects from you.                                                   |
-| **VoidTech DEMO**                                                                                  | Turn-based combat built around creatures, synergies, and strategic decisions.                                                                              |
-| **Enclover Moonlight**                                                                             | A visual novel built around branching routes where the choices are not simply right or wrong.                                                              |
-| **Legacy**                                                                                         | A classic fantasy 2D platformer focused on exploration without a map holding your hand.                                                                    |
-| **[Curricuneko](https://houjousxnnyside.github.io/curricuneko/)**                                  | A playable introspection that turns fragments of creative identity into an interactive experience.                                                         |
-| **[BetterBattleOrientation](https://github.com/devil-doll-entertainment/betterbattleorientation)** | A modular RPG Maker VX Ace battle system that replaces the default front-view presentation with a lateral layout, configurable motion, and visual effects. |
-| **Emerald Essentials**                                                                             | A Minecraft Java mod that gives emeralds a more meaningful role within the game's economy and progression.                                                 |
-| **[MC-AutomaticPackage](https://github.com/devil-doll-entertainment/mc-automatic-package)**        | A lightweight Fabric mod for Minecraft Java that lets you toggle a resource pack with a single keybind.                                                    |
+| Project                                                                                            | Description                                                                                                                     |
+| -------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| **[Curricuneko](https://curricuneko.sxnnysideproject.com/en/)**                                    | A playable introspection on creative identity — four persona paths, each ending in a different self-portrait.                     |
+| **VoidTech DEMO**                                                                                  | A collectible-monster demo where the shop resets daily and the rival AI adapts to how you fight.                                   |
+| **Legacy**                                                                                         | A classic 2D fantasy platformer that unlocks its abilities through exploration, not a checklist.                                   |
+| **Hirevania**                                                                                      | A retro gothic action platformer where the real final boss is adult life.                                                          |
+| **[GameSwap Recorder](https://github.com/devil-doll-entertainment/gameswap-recorder)**             | An RPG Maker MV plugin that lets save files talk to each other, without touching the engine's own system.                          |
+| **Little Day Trading Card Game**                                                                   | A competitive digital TCG on reimagined Greek mythology, built around a metagame that keeps shifting.                              |
+| **Venom Sweep**                                                                                    | An experimental scrolling game where the real challenge is reading a threat that never stops moving.                               |
+| **Psycodead DEMO**                                                                                 | A raw slice of Psycodead's boss fights, stripped of story so only the tension is left.                                             |
+| **[BetterBattleOrientation](https://github.com/devil-doll-entertainment/betterbattleorientation)** | An RPG Maker VX Ace script that turns front-facing battles into a proper side formation.                                           |
+| **[Enclover Moonlight](https://enclovermoonlight.sxnnysideproject.com)**                           | A branching visual novel for adult audiences — where every route reveals something different, and none of them is wrong.          |
+| **100 Levels to Hate**                                                                             | A hundred short levels built to frustrate you on purpose, each one for a reason.                                                   |
+| **[Emerald Essentials](https://modrinth.com/project/emeraldessentials)**                           | A Minecraft mod that gives emerald and its neighboring gems a full progression line, without breaking vanilla balance.             |
+| **[MC Automatic Package](https://modrinth.com/mod/mc-automaticpackage)**                           | A visual resource-pack selector for Minecraft that skips the options menu entirely.                                                |
 
 <sub>
 Not every project has a public repository. Some are still private, experimental, or simply waiting for their moment.
@@ -77,7 +84,7 @@ Not every project has a public repository. Some are still private, experimental,
 <br>
 
 <p align="center">
-  <a href="https://www.sxnnysideproject.com/en/realms/devil-doll-entertainment">
+  <a href="https://sxnnysideproject.com/en/realms/devil-doll-entertainment">
     <strong>Explore Devil Doll Entertainment →</strong>
   </a>
 </p>
@@ -99,11 +106,11 @@ Private games, demos, prototypes, and selected builds may be distributed indepen
 <p align="center">
   <a href="https://sxnnysideproject.com">Website</a>
   &nbsp;·&nbsp;
-  <a href="https://www.instagram.com/sxnnyside_project">Instagram</a>
+  <a href="https://instagram.com/sxnnyside_project">Instagram</a>
   &nbsp;·&nbsp;
   <a href="https://x.com/sxnny_project">X</a>
   &nbsp;·&nbsp;
-  <a href="https://www.youtube.com/channel/UCjFe8XrkDPgDdqh5Y4Uw7KA">YouTube</a>
+  <a href="https://youtube.com/channel/UCjFe8XrkDPgDdqh5Y4Uw7KA">YouTube</a>
   &nbsp;·&nbsp;
   <a href="mailto:houjou.sxnnyside@sxnnyside.com">Email</a>
 </p>
